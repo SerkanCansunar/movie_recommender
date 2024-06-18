@@ -1,3 +1,4 @@
+## Projenin kodlarına [buraya tıklayarak](https://colab.research.google.com/drive/1PeOH81PP0VAfHx32Iu0jciwov3HCNprV?usp=sharing) ulaşabilirsiniz.
 # movie_recommender
 İçerik Tabanlı Filtreleme (Content-Based Filtering)
 ```
